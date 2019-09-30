@@ -16,3 +16,5 @@ Basal Metabolic Rate represents the number of calories one would burn in a day w
 4. Retrieve the value of a text field. (n.d.). Retrieved October 1, 2019, from https://flutter.dev/docs/cookbook/forms/retrieve-input.
 5. DropdownButton class. (n.d.). Retrieved October 1, 2019, from https://api.flutter.dev/flutter/material/DropdownButton-class.html.
 6. Create lists with different types of items. (n.d.). Retrieved October 1, 2019, from https://flutter.dev/docs/cookbook/lists/mixed-list. 
+7. Singh, N. K. (2018, June 6). Flutter : Drop down 1 | Flutter Tutorial. Retrieved October 1, 2019, from https://www.youtube.com/watch?v=0h0oNEwupUA&t=486s.
+8. Singh, N. K. (2018, June 6). Flutter : Drop down 2 | Flutter Tutorial. Retrieved October 1, 2019, from https://www.youtube.com/watch?v=0c5lpKKtwG0.
