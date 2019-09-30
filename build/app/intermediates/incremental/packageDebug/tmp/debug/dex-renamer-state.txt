@@ -1,0 +1,4 @@
+#Tue Oct 01 01:07:43 MYT 2019
+base.0=/Users/alifmirzaandriyanto/Desktop/Project/bmr_calculator/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
