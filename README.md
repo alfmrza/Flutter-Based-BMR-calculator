@@ -16,7 +16,6 @@ Basal Metabolic Rate represents the number of calories one would burn in a day w
 ![Screenshot_1569870888](https://user-images.githubusercontent.com/47703557/65936658-e1010300-e44f-11e9-9d95-e7645ccf0d42.png)
 4. Metric System Output
 ![Screenshot_1569870893](https://user-images.githubusercontent.com/47703557/65936681-fb3ae100-e44f-11e9-9746-79f2756ebb3c.png)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 
 
