@@ -9,13 +9,13 @@ Basal Metabolic Rate represents the number of calories one would burn in a day w
 
 # Interface(s)
 1. Splash Screen
-![Screenshot_1569870865](https://user-images.githubusercontent.com/47703557/65936589-aa2aed00-e44f-11e9-9a45-d337ac49e8ba.png)
+![Screenshot_1569870865](https://user-images.githubusercontent.com/47703557/65936589-aa2aed00-e44f-11e9-9a45-d337ac49e8ba.png " width="400" height="790")
 2. First Page (Metric System Page)
-![Screenshot_1569870868](https://user-images.githubusercontent.com/47703557/65936642-cdee3300-e44f-11e9-98c3-0063b35d19ab.png)
+![Screenshot_1569870868](https://user-images.githubusercontent.com/47703557/65936642-cdee3300-e44f-11e9-98c3-0063b35d19ab.png " width="400" height="790")
 3. Metric system Input
-![Screenshot_1569870888](https://user-images.githubusercontent.com/47703557/65936658-e1010300-e44f-11e9-9d95-e7645ccf0d42.png)
+![Screenshot_1569870888](https://user-images.githubusercontent.com/47703557/65936658-e1010300-e44f-11e9-9d95-e7645ccf0d42.png " width="400" height="790"
 4. Metric System Output
-![Screenshot_1569870893](https://user-images.githubusercontent.com/47703557/65936681-fb3ae100-e44f-11e9-9746-79f2756ebb3c.png)
+![Screenshot_1569870893](https://user-images.githubusercontent.com/47703557/65936681-fb3ae100-e44f-11e9-9746-79f2756ebb3c.png " width="400" height="790")
 
 # Reference(s)
 1. The Calculator Site. (n.d.). BMR Calculator For Weight Loss. Retrieved October 1, 2019, from https://www.thecalculatorsite.com/health/bmr-calculator.php.
